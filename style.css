@@ -1,0 +1,21 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+  cursor: default; 
+}
+
+button{
+  color: gray;
+  font-size: 20px;
+  cursor: pointer; 
+}
+
+button:hover{
+  color: black;
+  font-size: 20px;
+  cursor: pointer;
+  border-radius: 10px;
+}
