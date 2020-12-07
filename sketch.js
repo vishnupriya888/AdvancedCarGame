@@ -80,8 +80,9 @@ function draw() {
   }
 }
 function keyPressed() {
-  if (keyCode === 13 && gameState !== 1) {
+  if (keyCode === 13 && gameState !== 1 && passedFinish === false) {
     form.enter();
     console.log("hai");
+    passedFinish = true;
   }
 }
