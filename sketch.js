@@ -79,3 +79,9 @@ function draw() {
     game.displayRanks();
   }
 }
+function keyPressed() {
+  if (keyCode === 13 && gameState !== 1) {
+    form.enter();
+    console.log("hai");
+  }
+}
