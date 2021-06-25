@@ -1,9 +1,5 @@
 
-###  <a href = "https://github.com/vishnupriya888/BasicLibFiles">BoilerPlate Template</a>
+#### <a href = "https://github.com/vishnupriya888/BasicLibFiles">BoilerPlate Template</a>
+#### <a href = "https://vishnupriya888.github.io/AdvancedCarGame/">Output Link</a>
+#### Please refer to code notes for explanation.
 
-## Use basic p5.play-boilerplate
-Boiler plate for p5.play : https://github.com/vishnupriya888/BasicLibFiles
-
-## Please refer to code notes for explanation.
-
-### Output Link : https://vishnupriya888.github.io/AdvancedCarGame/
